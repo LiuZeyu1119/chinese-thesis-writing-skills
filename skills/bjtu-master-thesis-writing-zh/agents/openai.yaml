@@ -1,0 +1,4 @@
+interface:
+  display_name: "北交大工科硕士论文写作"
+  short_description: "依据北交大规范与三篇论文的写作经验，起草精修中文工科硕士论文"
+  default_prompt: "使用 $bjtu-master-thesis-writing-zh，按北京交通大学硕士论文规范及已提炼的三篇论文写作方法，依据我的研究材料起草或精修指定章节，组织贡献与证据并凝练学术表达。"

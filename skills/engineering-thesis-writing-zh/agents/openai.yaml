@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文工科硕士论文写作"
+  short_description: "依据研究材料起草与精修硕士论文，组织创新贡献和实验证据，规范中文学术表达"
+  default_prompt: "使用 $engineering-thesis-writing-zh，根据我的研究问题、方法和实验材料撰写或精修论文，组织创新贡献与对应证据，保留公式、数据、引用和研究状态。"
